@@ -6,4 +6,4 @@ For example, if we wish to install a game, we cannot install the game's audio, v
 
 
 *********************
-To know the error for helm we can clone that repo and specify branch which we want if needed and enter the command-----> helmversion <file name > --debug./.
+To know the error for helm we can clone that repo and specify branch which we want if needed and enter the command-----> helmversion filename  --debug./.
